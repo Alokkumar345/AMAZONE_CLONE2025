@@ -7,6 +7,7 @@ A responsive **Amazon Clone** website developed using **HTML, CSS, and JavaScrip
 **Author:** [Alokkumar345](https://github.com/Alokkumar345)
 
 **Project:** [AMAZONE_CLONE2025](https://github.com/Alokkumar345/AMAZONE_CLONE2025)
+http://127.0.0.1:5500/AMAZONE_CLONE2025/index.html
 
 ## 🚀 Features
 
