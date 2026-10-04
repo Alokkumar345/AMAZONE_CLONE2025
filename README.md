@@ -77,7 +77,7 @@ The main objective of this project is to practice frontend web development conce
 Add screenshots of your project here:
 
 ```text
-![Amazon Clone Screenshot](screenshot.png)
+![Amazon Clone Screenshot](Project Preview.png)
 ```
 
 ## 🔮 Future Improvements
